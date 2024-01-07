@@ -1,0 +1,40 @@
+password :4j6GpMl2kctfgxyp
+username :saksham27032002
+
+
+
+
+
+
+
+1 . Tell me about yourself
+2 . In java , what will happen if we declare main() as private
+3. Can we import same package twice in java
+4. How do we handle errors in java
+5. Technology stack used in project - I had a MERN stack project so questions were on react
+6. Asked about various functionalitiies of project and what packages i used to achieve that.
+7 . How can we reach middle of linklist in single traversal
+8. basic puzzles ,like water jug problems, probabilty .
+9 . SQL queries : How to select name in employee table in upper-case : (upper function)
+10 . How to get duplicate entries in employee table (name is duplicated) how to get such entries.
+11. DDL / DML
+12. Difference between truncate , delete ,drop (v.v imp)
+13. Primary key, super key, foreign key, candidate key - explain
+14 . Questions on OS like conditions for deadlock , few ques on scheduler.
+15 . Life Cycle of component in react
+16 . Virtual dom vs real dom
+17 . Pure Component in react.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
